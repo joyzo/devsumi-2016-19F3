@@ -69,7 +69,7 @@ var postRecord = function(event, callback) {
 };
 
 exports.handler = function(event, context) {
-  console.log('Lambda event: 'JSON.stringify(event));
+  console.log('Lambda event: ' + JSON.stringify(event));
   postRecord(event, function(err, records) {
     if (err) {
       context.fail(err);
