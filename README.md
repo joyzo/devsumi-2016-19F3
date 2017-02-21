@@ -40,7 +40,7 @@
 ## Reference
 * [kintoneで実践するIoTハンズオン
 -90分で挑戦！kintone & AWS IoT連携-
- Developers Summit 2016 【19-F-3】サイボウズ特別トラック]()（slideshare）
+ Developers Summit 2016 【19-F-3】サイボウズ特別トラック](http://www.slideshare.net/joyzojp/kintoneiot-90kintone-aws-iot)（slideshare）
 * [Amazon Web Services](http://aws.amazon.com/jp/)
 * [AWS利用無料枠](http://aws.amazon.com/jp/free/)（[FAQ](http://aws.amazon.com/jp/free/faqs/)）
 * [AWS Lambda](https://aws.amazon.com/jp/lambda/)
